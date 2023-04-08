@@ -3,7 +3,7 @@ title: "What time should I leave?"
 author: "Abby Vogel"
 format: 
   html:
-    embed-resources: true
+    embed-resources: false
 editor: visual
 ---
 
